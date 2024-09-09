@@ -1,0 +1,2 @@
+#!/bin/bash
+i2cget -f -y 2 0x76 0xfb
